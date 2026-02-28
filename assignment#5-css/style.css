@@ -1,0 +1,163 @@
+body{background-color: #F8F9FA;}
+h1{color: #8B0000;text-align: center;font-family: Georgia, 'Times New Roman', Times, serif;font-weight: 700;font-size: 55px;}
+.box-1{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #E563A7;
+  border: 2px solid white;
+  margin: 4px;
+  position: relative;
+}
+.circle-1{background-color: #F64A8A;  top: 2px;
+  left: 60px; position: absolute; z-index: 1; ;width: 100px;
+  height: 100px;border-radius: 50%;}
+.circle-2{background-color: #F7A4B2; 
+     top: 2px;
+  left: 120px;
+   position: absolute; 
+  z-index: 2; 
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;}
+.circle-3{background-color:#FFE9EA;  top: 4px;
+  left: 180px; position: absolute; z-index: 2; ;width: 100px;
+  height: 100px;border-radius: 50%;}
+.circle-4{background-color: #FBC2EB;  top: 2px;
+  left: 240px; position: absolute; z-index: 2; ;width: 100px;
+  height: 100px;border-radius: 50%;}
+.circle-5{background-color: #F8D9E1;  top: 3px;
+  left: 300px; position: absolute; z-index: 2; ;width: 100px;
+  height: 100px;border-radius: 50%;}
+.circle-6{background-color: #FFF5F7;  top: 5px;
+  left: 360px; position: absolute; z-index: 3; ;width: 100px;
+  height: 100px;border-radius: 50%;}
+  .box-2{
+  width: 100px;
+  height: 100px;
+ /* clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); */
+  /* background-color: #E563A7;
+  border: 2px solid white; */
+  margin: 4px;
+  position: relative;
+margin-top: 50px;
+}
+.rhoumbus-1{background-color:#0D4DFF;  top: 0px;
+  left: 60px; position: absolute; z-index: 1; width: 150px; height:150px;   clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+ }
+.rhoumbus-2{background-color:#40CEE3;  top: 0px;
+  left: 120px; height:150px;   position: absolute; z-index: 2; width: 150px;clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  }
+.rhoumbus-3{background-color:#63BCC9;  top: 0px;
+  left: 180px; height:150px;   position: absolute; z-index: 2; width: 150px;clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  }
+.rhoumbus-4{background-color: #89CFF0;  top: 0px;
+  left: 240px; height:150px;   position: absolute; z-index: 2; width: 150px;clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  }
+.rhoumbus-5{background-color:#AED9E0;  top: 0px;
+  left: 300px; height:150px;   position: absolute; z-index: 2; width: 150px;clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  }
+  .rhoumbus-6{background-color: #D1EAF0;  top: 0px;
+  left: 360px; height:150px;   position: absolute; z-index: 2; width: 150px;clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  }
+
+
+   .box-3{
+  width: 100px;
+  height: 100px;
+ /* clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); */
+  /* background-color: #E563A7;
+  border: 2px solid white; */
+  margin: 4px;
+  position: relative;
+margin-top: 50px;
+}
+.parallelogram-1{background-color:#BA55D3;  top: 20px;
+  left: 60px;
+   position: absolute; z-index: 1; width: 150px; height:150px;   clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+ }
+.parallelogram-2{background-color:#D891EF;  top: 40px;
+  left: 80px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+  }
+.parallelogram-3{background-color:#D19FE8;  top: 60px;
+  left: 100px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+  }
+.parallelogram-4{background-color: #DFBEFD;  top: 80px;
+  left: 120px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+  }
+.parallelogram-5{background-color:#E7CFFF;  top: 100px;
+  left: 140px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+  }
+  .parallelogram-6{background-color: #F3E5F5;  top: 120px;
+  left: 160px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+  }
+
+   .box-4{
+  width: 100px;
+  height: 100px;
+ /* clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); */
+  /* background-color: #E563A7;
+  border: 2px solid white; */
+  margin-top: 100px;
+  /* margin-left: auto;  */
+  text-align: center;
+  position: fixed;
+  top: 130px;
+  left: 900px;
+  /* display: block; */
+  /* z-index: 100; */
+
+}
+.book-1{background-color:#FFBC47;  bottom: 20px;
+  left: 60px;
+   position: absolute; z-index: 1; width: 150px; height:150px;   clip-path: polygon(18% 38%, 57% 53%, 97% 43%, 91% 89%, 54% 100%, 18% 85%);
+ }
+.book-2{background-color:#F8D347;  bottom: 40px;
+  left: 80px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(18% 38%, 57% 53%, 97% 43%, 91% 89%, 54% 100%, 18% 85%);margin: auto;
+  }
+.book-3{background-color:#FCE8ED;  bottom: 60px;
+  left: 100px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(18% 38%, 57% 53%, 97% 43%, 91% 89%, 54% 100%, 18% 85%);
+  }
+.book-4{background-color: #FFB888; bottom: 80px;
+  left: 120px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(18% 38%, 57% 53%, 97% 43%, 91% 89%, 54% 100%, 18% 85%);
+  }
+.book-5{background-color:#FAE9DD;  bottom: 100px;
+  left: 140px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(18% 38%, 57% 53%, 97% 43%, 91% 89%, 54% 100%, 18% 85%);
+  }
+  .book-6{background-color: #F7E7CE; bottom: 120px;
+  left: 160px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(18% 38%, 57% 53%, 97% 43%, 91% 89%, 54% 100%, 18% 85%);
+  }
+  .box-5{
+  width: 100px;
+  height: 100px;
+ /* clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); */
+  /* background-color: #E563A7;
+  border: 2px solid white; */
+  /* margin-top: 100px; */
+  /* margin-left: auto;  */
+  text-align: center;
+  position: relative;
+  top: 50px;
+  left:1000px;
+  /* display: block; */
+  /* z-index: 100; */}
+
+  .triangle-1{background-color:#99FFCC;  bottom: 20px;
+  right: 40px;
+   position: absolute; z-index: 1; width: 150px; height:150px;   clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+ }
+.triangle-2{background-color:#AAFFD4;  bottom: 40px;
+  right: 80px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  }
+.triangle-3{background-color:#BBFFDD;  bottom: 60px;
+  right: 120px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  }
+.triangle-4{background-color: #CCFFEE; bottom: 80px;
+  right: 160px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  }
+.triangle-5{background-color:#DDFFFF;  bottom: 100px;
+ right: 200px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  }
+  .triangle-6{background-color: #EEFFFF; bottom: 120px;
+  right: 240px; height:150px;   position: absolute; z-index: 1; width: 150px;clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  }
